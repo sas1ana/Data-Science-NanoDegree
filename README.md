@@ -46,3 +46,5 @@ Three business questions were investigated:
 - This project is part of Data scientist Nanodegree from udacity 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
+
+Please find my BlogPost at link(https://medium.com/@shaswat1anand/insight-of-airbnb-boston-dataset-4ba9a977f61c?source=friends_link&sk=e616cf9767ec238996b4cf0562e896d3)
